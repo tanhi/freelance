@@ -57,9 +57,6 @@ main {
   font-family: 'Lato', sans-serif;
 }
 
-.portfolio {
-
-}
 
 .text-uppercase {
  text-transform: uppercase;
@@ -74,4 +71,28 @@ main {
   font-family: 'Lato', sans-serif;
   color: black;
   text-align: center;
+
 }
+.portfolio{
+  width: 850px;
+   height: 432px;
+   display: inline-block;
+}
+
+.portfolio div img {
+  height: 200px;
+  width: 170px;
+  padding: 10px;
+}
+
+.portfolio, .set1  .set2{
+  display: inline-block;
+}
+
+
+
+
+
+   height: 200px;
+   width: 170px;
+   padding: 10px;
